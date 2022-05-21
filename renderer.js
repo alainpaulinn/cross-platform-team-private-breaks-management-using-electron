@@ -1,1 +1,1 @@
-// window.location.href = "https://imperiumline.com/";
+window.location.href = "https://imperiumline.com/";

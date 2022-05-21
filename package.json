@@ -1,21 +1,20 @@
 {
-  "name": "electron-quick-start",
+  "name": "imperiumline",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "Imperium line crossplatform Electron application",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
   "keywords": [
     "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "Windows",
+    "MacOs",
+    "Linux",
+    "Imperiumline"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "Alain Paulin Niyonkuru",
+  "license": "MIT",
   "devDependencies": {
     "electron": "^18.2.4"
   }
